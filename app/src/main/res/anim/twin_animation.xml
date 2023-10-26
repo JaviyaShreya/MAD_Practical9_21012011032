@@ -52,6 +52,22 @@
         android:startOffset="750"
         >
     </translate>
+    <scale
+        android:fromXScale="1.0"
+        android:fromYScale="1.0"
+        android:toXScale="1.5"
+        android:toYScale="1.5"
+        android:duration="750"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:startOffset="2500"/>
+
+    <alpha
+        android:fromAlpha="1.0"
+        android:toAlpha="5.0"
+        android:startOffset="2500"
+        android:duration="1500" />
+
 
 
 </set>

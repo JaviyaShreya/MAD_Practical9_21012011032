@@ -29,6 +29,6 @@ class MainActivity : AppCompatActivity() {
         }
         else
             alarmanimation.stop()
-        heartanimation.stop()
+            heartanimation.stop()
     }
 }
