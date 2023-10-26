@@ -12,7 +12,7 @@ AIM: What is Frame by Frame Animation? What is Twin Animation? How can you achie
 6.	
 7.	Add these all in project: <animation-list>, oneShot attribute, <set> tag, android:startOffset = 100, android:duration=1000, <scale> tag, <translate> tag, <rotate> tag, <alpha> tag
 
-8.	![image](https://github.com/JaviyaShreya/MAD_Practical9_21012011032/assets/98646013/387bf744-4774-493d-b3f7-418abcb92945)
+![image](https://github.com/JaviyaShreya/MAD_Practical9_21012011032/assets/98646013/387bf744-4774-493d-b3f7-418abcb92945)
 
 ![image](https://github.com/JaviyaShreya/MAD_Practical9_21012011032/assets/98646013/f346d4ad-7b1c-4d7a-9ca1-1ad81c88560c)
 
